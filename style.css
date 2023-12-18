@@ -1,0 +1,17 @@
+.fa-star :hover {
+  cursor: pointer;
+}
+input:hover {
+  cursor: pointer;
+}
+h3 {
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  font-weight: bolder;
+
+  color: orange !important;
+}
+span {
+  color: orange !important;
+}
